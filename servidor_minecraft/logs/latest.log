@@ -441,3 +441,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [07Jan2025 20:55:15.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> VOY A COMER
 [07Jan2025 20:55:20.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> termina de construir
 [07Jan2025 20:55:24.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ok
+[07Jan2025 20:56:42.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: meliodas646 lost connection: Disconnected
+[07Jan2025 20:56:42.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: meliodas646 left the game
+[07Jan2025 20:56:42.354] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client meliodas646
+[07Jan2025 20:57:06.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlecrafftJW lost connection: Disconnected
+[07Jan2025 20:57:06.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW left the game
+[07Jan2025 20:57:06.252] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlecrafftJW

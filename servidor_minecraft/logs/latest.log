@@ -267,3 +267,44 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [07Jan2025 01:59:43.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: say<--[HERE]
 [07Jan2025 01:59:47.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [07Jan2025 01:59:47.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: skibid<--[HERE]
+[07Jan2025 02:10:03.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW has made the advancement [Stone Age]
+[07Jan2025 02:14:41.962] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ed5281
+[07Jan2025 02:14:41.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: meliodas646[/127.251.123.32:39141] logged in with entity id 454 at (375.5, 59.0, -24.5)
+[07Jan2025 02:14:41.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: meliodas646 joined the game
+[07Jan2025 02:14:43.072] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of meliodas646 (18)
+[07Jan2025 02:14:43.073] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to meliodas646
+[07Jan2025 02:14:44.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] Como va todo?
+[07Jan2025 02:14:50.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> bien biennn
+[07Jan2025 02:14:50.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[07Jan2025 02:14:50.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /players<--[HERE]
+[07Jan2025 02:14:52.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[07Jan2025 02:14:52.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: players<--[HERE]
+[07Jan2025 02:14:56.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[07Jan2025 02:14:56.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: users<--[HERE]
+[07Jan2025 02:14:56.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> waos
+[07Jan2025 02:15:04.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]
+[07Jan2025 02:15:06.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] quienes estan conectados?
+[07Jan2025 02:15:12.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> el meliodas
+[07Jan2025 02:15:16.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> no me cargo el txt creo XD
+[07Jan2025 02:15:20.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: meliodas646 lost connection: Disconnected
+[07Jan2025 02:15:20.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: meliodas646 left the game
+[07Jan2025 02:15:20.714] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client meliodas646
+[07Jan2025 02:15:24.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] 👍👍
+[07Jan2025 02:15:28.413] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4655a0cb
+[07Jan2025 02:15:28.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: meliodas646[/127.251.123.32:55743] logged in with entity id 467 at (175.24643384359658, 71.0, -238.22332607848034)
+[07Jan2025 02:15:28.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: meliodas646 joined the game
+[07Jan2025 02:15:28.684] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of meliodas646 (18)
+[07Jan2025 02:15:28.685] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to meliodas646
+[07Jan2025 02:15:29.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ami si me cargo
+[07Jan2025 02:15:38.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> esq es un nuevo tc
+[07Jan2025 02:15:40.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> tx
+[07Jan2025 02:15:45.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> a verdad q hay q colocarlo no?
+[07Jan2025 02:15:55.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> me ves asi?
+[07Jan2025 02:16:12.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> con los brazos atras?
+[07Jan2025 02:16:17.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> nop
+[07Jan2025 02:16:22.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> y ahi?
+[07Jan2025 02:16:29.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> vale polla
+[07Jan2025 02:16:33.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
+[07Jan2025 02:16:37.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> y ahi?
+[07Jan2025 02:16:49.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> te mando foto?
+[07Jan2025 02:16:51.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> sisisi

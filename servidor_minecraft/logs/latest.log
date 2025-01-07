@@ -256,3 +256,34 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [07Jan2025 20:01:40.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW joined the game
 [07Jan2025 20:01:41.933] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlecrafftJW (18)
 [07Jan2025 20:01:41.935] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlecrafftJW
+[07Jan2025 20:07:55.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] Opening server review!
+[07Jan2025 20:07:59.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 1 of a max of 100 players online: AlecrafftJW
+[07Jan2025 20:11:22.857] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73210b87
+[07Jan2025 20:11:22.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: meliodas646[/127.251.123.32:45355] logged in with entity id 101 at (556.6999999880791, 75.0, -55.32075695247724)
+[07Jan2025 20:11:22.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: meliodas646 joined the game
+[07Jan2025 20:11:23.993] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of meliodas646 (18)
+[07Jan2025 20:11:23.994] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to meliodas646
+[07Jan2025 20:11:49.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> brouuu termina de construir en lo que yo termino mi tarea JAJAJJA
+[07Jan2025 20:11:59.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ok XD
+[07Jan2025 20:12:52.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 2 of a max of 100 players online: AlecrafftJW, meliodas646
+[07Jan2025 20:14:11.704] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3089fc5a
+[07Jan2025 20:14:11.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrMateoGame26YT[/127.134.206.85:55947] logged in with entity id 127 at (414.1759579909222, 72.80261458987472, 39.0246905004072)
+[07Jan2025 20:14:11.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SrMateoGame26YT joined the game
+[07Jan2025 20:14:13.636] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SrMateoGame26YT (18)
+[07Jan2025 20:14:13.637] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SrMateoGame26YT
+[07Jan2025 20:14:22.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> hola
+[07Jan2025 20:14:26.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> olas
+[07Jan2025 20:14:37.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> bro mateo
+[07Jan2025 20:14:40.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> si
+[07Jan2025 20:14:44.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SrMateoGame26YT: Teleported SrMateoGame26YT to meliodas646]
+[07Jan2025 20:14:48.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> le podes ayudar a construir u
+[07Jan2025 20:14:51.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> si
+[07Jan2025 20:14:58.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> yo voy a terminar mi tarea
+[07Jan2025 20:14:59.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> no puedo estar mucho tiempo, les ayudo
+[07Jan2025 20:15:03.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> ok
+[07Jan2025 20:15:03.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> vavvava
+[07Jan2025 20:15:10.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> q juego es? meliodas646
+[07Jan2025 20:15:17.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> escondidas
+[07Jan2025 20:15:20.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> apa
+[07Jan2025 20:15:32.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> yo siento que lo agrandamos un poco mas no??
+[07Jan2025 20:15:49.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> mateo podes hacer un arbol grandote aca

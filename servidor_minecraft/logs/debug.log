@@ -3756,3 +3756,179 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [07Jan2025 02:57:15.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> y despues lo exportas en .exe
 [07Jan2025 02:57:26.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jan2025 02:57:26.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 02:57:39.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> pues tengo el codigo me faltaria la foto de fondo del launcher el icono
+[07Jan2025 02:57:45.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> mods forge
+[07Jan2025 02:57:48.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> y eso solo
+[07Jan2025 02:57:57.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> aa smn luego lo hablamo va
+[07Jan2025 02:58:10.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> mañana tas libre?
+[07Jan2025 02:58:15.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> para verlo bien bien
+[07Jan2025 02:58:16.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> si
+[07Jan2025 02:58:24.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ok
+[07Jan2025 02:58:40.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> tu de q pais eras papu?
+[07Jan2025 02:58:49.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> mexico
+[07Jan2025 02:59:05.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> creo q no estamos muy lejos jsjsj
+[07Jan2025 02:59:07.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
+[07Jan2025 02:59:20.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> d dnd eras tu
+[07Jan2025 02:59:26.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> de chile
+[07Jan2025 02:59:35.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> donde le decimos palta
+[07Jan2025 02:59:37.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> aa ps a unas 40 horas
+[07Jan2025 02:59:45.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> poquito
+[07Jan2025 03:01:10.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW has made the advancement [Cover Me with Diamonds]
+[07Jan2025 03:01:30.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> asu
+[07Jan2025 03:02:26.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:02:26.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:02:27.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Stopped all sounds]
+[07Jan2025 03:02:30.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:custom.luces to 2 players]
+[07Jan2025 03:03:10.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Removed every effect from 2 targets]
+[07Jan2025 03:03:10.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:custom.luces to 2 players]
+[07Jan2025 03:03:32.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Night Vision to 2 targets]
+[07Jan2025 03:04:36.480] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wcm2s2eyf7en]: started parsing
+[07Jan2025 03:04:36.480] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wcm2s2eyf7en]: Consuming argument `jungle_planks`
+[07Jan2025 03:04:36.480] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wcm2s2eyf7en]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:04:36.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1krfdqyo521i1]: started parsing
+[07Jan2025 03:04:36.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1krfdqyo521i1]: Consuming argument `jungle_planks`
+[07Jan2025 03:04:36.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1krfdqyo521i1]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:04:38.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported AlecrafftJW to meliodas646]
+[07Jan2025 03:04:45.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
+[07Jan2025 03:04:53.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> muy piola
+[07Jan2025 03:04:53.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlecrafftJW moved too quickly! 8.47485596708134,4.874803799840976,-2.4016213526051757
+[07Jan2025 03:05:06.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> haz aca como una mansion abandonada no tan grande
+[07Jan2025 03:05:11.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> un poco raro ver al frontman volando
+[07Jan2025 03:05:15.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ok
+[07Jan2025 03:05:17.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> XD
+[07Jan2025 03:05:27.561] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04h8rij0hm9t7]: started parsing
+[07Jan2025 03:05:27.561] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04h8rij0hm9t7]: Consuming argument ``
+[07Jan2025 03:05:27.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s0fnu00grsd3]: started parsing
+[07Jan2025 03:05:27.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s0fnu00grsd3]: Consuming argument `0`
+[07Jan2025 03:05:27.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s0fnu00grsd3]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:05:28.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gwnq52t5xapa]: started parsing
+[07Jan2025 03:05:28.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gwnq52t5xapa]: Consuming argument `0`
+[07Jan2025 03:05:28.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gwnq52t5xapa]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:05:40.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> dale click a esto
+[07Jan2025 03:05:55.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ouuu
+[07Jan2025 03:06:36.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Created team [Guardss]]
+[07Jan2025 03:06:52.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> todavia no agregas las cabezas de los guardias no?
+[07Jan2025 03:07:02.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Updated the color for team [Guardss] to red]
+[07Jan2025 03:07:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081glvhv7mvht]: started parsing
+[07Jan2025 03:07:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081glvhv7mvht]: Consuming argument `0`
+[07Jan2025 03:07:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081glvhv7mvht]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0962nmh4blnki]: started parsing
+[07Jan2025 03:07:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0962nmh4blnki]: Consuming argument `0`
+[07Jan2025 03:07:06.078] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0962nmh4blnki]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:06.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> nop
+[07Jan2025 03:07:10.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ok
+[07Jan2025 03:07:11.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0udj5it2yz9ci]: started parsing
+[07Jan2025 03:07:11.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0udj5it2yz9ci]: Consuming argument `0`
+[07Jan2025 03:07:11.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0udj5it2yz9ci]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:11.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1atdr8pjgdh9b]: started parsing
+[07Jan2025 03:07:11.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1atdr8pjgdh9b]: Consuming argument `0`
+[07Jan2025 03:07:11.738] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1atdr8pjgdh9b]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:22.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ob0aovzm3knv]: started parsing
+[07Jan2025 03:07:22.606] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ob0aovzm3knv]: Consuming argument `0`
+[07Jan2025 03:07:22.607] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ob0aovzm3knv]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:22.613] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zou3w7ngaszh]: started parsing
+[07Jan2025 03:07:22.613] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zou3w7ngaszh]: Consuming argument `0`
+[07Jan2025 03:07:22.613] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zou3w7ngaszh]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:24.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvcqc04wvotj]: started parsing
+[07Jan2025 03:07:24.845] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvcqc04wvotj]: Consuming argument `paint`
+[07Jan2025 03:07:24.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvcqc04wvotj]: Consuming argument `sphere`
+[07Jan2025 03:07:24.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvcqc04wvotj]: Consuming argument `set`
+[07Jan2025 03:07:24.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvcqc04wvotj]: Consuming argument `gravel`
+[07Jan2025 03:07:24.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xvcqc04wvotj]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:24.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5thcss8mx46]: started parsing
+[07Jan2025 03:07:24.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5thcss8mx46]: Consuming argument `paint`
+[07Jan2025 03:07:24.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5thcss8mx46]: Consuming argument `sphere`
+[07Jan2025 03:07:24.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5thcss8mx46]: Consuming argument `set`
+[07Jan2025 03:07:24.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5thcss8mx46]: Consuming argument `gravel`
+[07Jan2025 03:07:24.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5thcss8mx46]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:24.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mf990zf44oy7]: started parsing
+[07Jan2025 03:07:24.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mf990zf44oy7]: Consuming argument `0`
+[07Jan2025 03:07:24.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mf990zf44oy7]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:24.877] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16lvfrgy8n2nq]: started parsing
+[07Jan2025 03:07:24.877] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16lvfrgy8n2nq]: Consuming argument `0`
+[07Jan2025 03:07:24.877] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16lvfrgy8n2nq]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:24.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qsgv7i6gzlyv]: started parsing
+[07Jan2025 03:07:24.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qsgv7i6gzlyv]: Consuming argument `0`
+[07Jan2025 03:07:24.940] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qsgv7i6gzlyv]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:24.940] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j3gfc7l2t35v]: started parsing
+[07Jan2025 03:07:24.940] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j3gfc7l2t35v]: Consuming argument `0`
+[07Jan2025 03:07:24.940] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j3gfc7l2t35v]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:24.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uetsgwg2tap7]: started parsing
+[07Jan2025 03:07:24.969] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uetsgwg2tap7]: Consuming argument `unbind`
+[07Jan2025 03:07:24.970] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uetsgwg2tap7]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:24.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mzj7mdjadt2o]: started parsing
+[07Jan2025 03:07:24.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mzj7mdjadt2o]: Consuming argument `unbind`
+[07Jan2025 03:07:24.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mzj7mdjadt2o]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:25.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> esas al mod las voy a agregar para cuando den click derecho al aire se lesp onga
+[07Jan2025 03:07:25.653] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wxd9j7j2emgj]: started parsing
+[07Jan2025 03:07:25.653] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wxd9j7j2emgj]: Consuming argument `0`
+[07Jan2025 03:07:25.653] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wxd9j7j2emgj]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:25.653] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0obh19yty2mss]: started parsing
+[07Jan2025 03:07:25.653] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0obh19yty2mss]: Consuming argument `0`
+[07Jan2025 03:07:25.653] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0obh19yty2mss]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:26.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1swaz53gz942x]: started parsing
+[07Jan2025 03:07:26.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1swaz53gz942x]: Consuming argument `0`
+[07Jan2025 03:07:26.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1swaz53gz942x]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:26.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pbtyambi584x]: started parsing
+[07Jan2025 03:07:26.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pbtyambi584x]: Consuming argument `0`
+[07Jan2025 03:07:26.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pbtyambi584x]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:26.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:07:26.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 03:07:26.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17bxmr1td9j6w]: started parsing
+[07Jan2025 03:07:26.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17bxmr1td9j6w]: Consuming argument `paint`
+[07Jan2025 03:07:26.578] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17bxmr1td9j6w]: Consuming argument `sphere`
+[07Jan2025 03:07:26.578] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17bxmr1td9j6w]: Consuming argument `set`
+[07Jan2025 03:07:26.578] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17bxmr1td9j6w]: Consuming argument `gravel`
+[07Jan2025 03:07:26.578] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17bxmr1td9j6w]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:26.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hc4w5zjy7gle]: started parsing
+[07Jan2025 03:07:26.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hc4w5zjy7gle]: Consuming argument `paint`
+[07Jan2025 03:07:26.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hc4w5zjy7gle]: Consuming argument `sphere`
+[07Jan2025 03:07:26.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hc4w5zjy7gle]: Consuming argument `set`
+[07Jan2025 03:07:26.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hc4w5zjy7gle]: Consuming argument `gravel`
+[07Jan2025 03:07:26.583] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hc4w5zjy7gle]: Finished looking at arguments. Finalizing command.
+[07Jan2025 03:07:27.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wsualnahxzv7]: started parsing
+[07Jan2025 03:07:27.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wsualnahxzv7]: Consuming argument `paint`
+[07Jan2025 03:07:27.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wsualnahxzv7]: Consuming argument `sphere`
+[07Jan2025 03:07:27.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wsualnahxzv7]: Consuming argument `set`
+[07Jan2025 03:07:27.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wsualnahxzv7]: Consuming argument `grave`
+[07Jan2025 03:07:28.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14i8hq9jyyxda]: started parsing
+[07Jan2025 03:07:28.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14i8hq9jyyxda]: Consuming argument `paint`
+[07Jan2025 03:07:28.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14i8hq9jyyxda]: Consuming argument `sphere`
+[07Jan2025 03:07:28.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14i8hq9jyyxda]: Consuming argument `set`
+[07Jan2025 03:07:28.073] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14i8hq9jyyxda]: Consuming argument `grav`
+[07Jan2025 03:07:28.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i1opffzvqarh]: started parsing
+[07Jan2025 03:07:28.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i1opffzvqarh]: Consuming argument `paint`
+[07Jan2025 03:07:28.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i1opffzvqarh]: Consuming argument `sphere`
+[07Jan2025 03:07:28.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i1opffzvqarh]: Consuming argument `set`
+[07Jan2025 03:07:28.107] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i1opffzvqarh]: Consuming argument `gra`
+[07Jan2025 03:07:28.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yoyypvfyh5hh]: started parsing
+[07Jan2025 03:07:28.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yoyypvfyh5hh]: Consuming argument `paint`
+[07Jan2025 03:07:28.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yoyypvfyh5hh]: Consuming argument `sphere`
+[07Jan2025 03:07:28.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yoyypvfyh5hh]: Consuming argument `set`
+[07Jan2025 03:07:28.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yoyypvfyh5hh]: Consuming argument `gr`
+[07Jan2025 03:07:28.477] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chl6opt7vk3y]: started parsing
+[07Jan2025 03:07:28.477] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chl6opt7vk3y]: Consuming argument `paint`
+[07Jan2025 03:07:28.477] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chl6opt7vk3y]: Consuming argument `sphere`
+[07Jan2025 03:07:28.477] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chl6opt7vk3y]: Consuming argument `set`
+[07Jan2025 03:07:28.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0chl6opt7vk3y]: Consuming argument `g`
+[07Jan2025 03:07:28.641] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [097qbokjuxdaa]: started parsing
+[07Jan2025 03:07:28.641] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [097qbokjuxdaa]: Consuming argument `paint`
+[07Jan2025 03:07:28.642] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [097qbokjuxdaa]: Consuming argument `sphere`
+[07Jan2025 03:07:28.642] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [097qbokjuxdaa]: Consuming argument `set`
+[07Jan2025 03:07:28.642] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [097qbokjuxdaa]: Consuming argument ``
+[07Jan2025 03:07:30.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rxyqtos0jarq]: started parsing
+[07Jan2025 03:07:30.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rxyqtos0jarq]: Consuming argument `paint`
+[07Jan2025 03:07:30.755] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rxyqtos0jarq]: Consuming argument `sphere`
+[07Jan2025 03:07:30.756] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rxyqtos0jarq]: Consuming argument `set`
+[07Jan2025 03:07:30.756] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rxyqtos0jarq]: Consuming argument ``
+[07Jan2025 03:07:39.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ok
+[07Jan2025 03:07:45.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z7ujhfdpcrel]: started parsing
+[07Jan2025 03:07:45.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z7ujhfdpcrel]: Consuming argument `paint`
+[07Jan2025 03:07:45.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z7ujhfdpcrel]: Consuming argument `sphere`
+[07Jan2025 03:07:45.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z7ujhfdpcrel]: Consuming argument `set`
+[07Jan2025 03:07:45.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z7ujhfdpcrel]: Consuming argument ``
+[07Jan2025 03:07:45.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k1dnog4sdp9r]: started parsing
+[07Jan2025 03:07:45.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k1dnog4sdp9r]: Consuming argument `paint`
+[07Jan2025 03:07:45.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k1dnog4sdp9r]: Consuming argument `sphere`
+[07Jan2025 03:07:45.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k1dnog4sdp9r]: Consuming argument `set`
+[07Jan2025 03:07:45.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k1dnog4sdp9r]: Consuming argument ``

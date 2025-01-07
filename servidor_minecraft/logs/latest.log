@@ -325,3 +325,66 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [07Jan2025 20:35:13.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> tmr
 [07Jan2025 20:35:23.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> tu pago
 [07Jan2025 20:35:40.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> alrmd
+[07Jan2025 20:37:58.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ahorita se une trye
+[07Jan2025 20:38:08.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> borro el .minecraft
+[07Jan2025 20:38:09.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [meliodas646: Teleported AlecrafftJW to meliodas646]
+[07Jan2025 20:38:11.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
+[07Jan2025 20:38:21.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> opa ta piola
+[07Jan2025 20:38:37.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> awebo
+[07Jan2025 20:38:52.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SrMateoGame26YT: Teleported SrMateoGame26YT to AlecrafftJW]
+[07Jan2025 20:38:52.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set meliodas646's game mode to Survival Mode]
+[07Jan2025 20:39:40.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> abuelo :(
+[07Jan2025 20:39:46.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> queda chevere
+[07Jan2025 20:39:52.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+[07Jan2025 20:40:09.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> guardia
+[07Jan2025 20:40:11.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> infiltrado
+[07Jan2025 20:40:15.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> matalo
+[07Jan2025 20:40:21.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> q paso?
+[07Jan2025 20:40:29.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Gamerule keepInventory is now set to: true]
+[07Jan2025 20:40:35.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]
+[07Jan2025 20:40:41.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> maytalo
+[07Jan2025 20:40:48.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> eeeeeeeeeee
+[07Jan2025 20:40:53.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> q ta sucediendo ahi+
+[07Jan2025 20:40:57.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> shhh
+[07Jan2025 20:41:05.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set [death] for meliodas646 to 0]
+[07Jan2025 20:41:08.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> xd
+[07Jan2025 20:41:12.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
+[07Jan2025 20:41:13.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]
+[07Jan2025 20:41:21.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> Ibai reference
+[07Jan2025 20:41:25.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set [death] for meliodas646 to 0]
+[07Jan2025 20:41:28.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> ya vengo
+[07Jan2025 20:41:28.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> XD
+[07Jan2025 20:41:30.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]
+[07Jan2025 20:41:30.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrMateoGame26YT lost connection: Disconnected
+[07Jan2025 20:41:30.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SrMateoGame26YT left the game
+[07Jan2025 20:41:30.723] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SrMateoGame26YT
+[07Jan2025 20:41:48.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set meliodas646's game mode to Creative Mode]
+[07Jan2025 20:42:03.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> segui construyendo o no hay paga
+[07Jan2025 20:42:11.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> tmr
+[07Jan2025 20:42:26.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [meliodas646: Removed every effect from 2 targets]
+[07Jan2025 20:42:51.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [meliodas646: Set own game mode to Survival Mode]
+[07Jan2025 20:42:52.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [meliodas646: Set own game mode to Creative Mode]
+[07Jan2025 20:42:59.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Night Vision to 2 targets]
+[07Jan2025 20:43:09.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> voy al bathroom ya vuelvo
+[07Jan2025 20:43:11.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Removed every effect from 2 targets]
+[07Jan2025 20:43:16.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ok
+[07Jan2025 20:43:20.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:custom.luces to 2 players]
+[07Jan2025 20:43:47.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Night Vision to 2 targets]
+[07Jan2025 20:43:47.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:custom.luces to 2 players]
+[07Jan2025 20:43:54.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Night Vision to 2 targets]
+[07Jan2025 20:43:54.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:custom.luces to 2 players]
+[07Jan2025 20:44:34.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlecrafftJW lost connection: Disconnected
+[07Jan2025 20:44:34.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW left the game
+[07Jan2025 20:44:34.102] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlecrafftJW
+[07Jan2025 20:44:42.769] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61956017
+[07Jan2025 20:44:42.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlecrafftJW[/127.52.147.79:41003] logged in with entity id 925 at (482.3879076375705, 93.72882135960599, -111.63471389188084)
+[07Jan2025 20:44:42.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW joined the game
+[07Jan2025 20:44:42.992] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlecrafftJW (18)
+[07Jan2025 20:44:42.992] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlecrafftJW
+[07Jan2025 20:44:43.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> server pa mi solo
+[07Jan2025 20:44:47.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> tmr
+[07Jan2025 20:44:50.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> no
+[07Jan2025 20:44:54.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
+[07Jan2025 20:45:27.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set own game mode to Spectator Mode]
+[07Jan2025 20:45:41.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set own game mode to Creative Mode]
+[07Jan2025 20:46:09.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]

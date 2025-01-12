@@ -1,189 +1,189 @@
-[07Jan2025 19:55:42.645] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
-[07Jan2025 19:55:42.649] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.5 by Microsoft
-[07Jan2025 19:55:42.759] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/squid-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[07Jan2025 19:55:43.059] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/squid-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[07Jan2025 19:55:43.063] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/squid-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[07Jan2025 19:55:43.065] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/squid-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[07Jan2025 19:55:43.069] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/squid-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[07Jan2025 19:55:43.219] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[07Jan2025 19:55:44.925] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07Jan2025 19:55:44.968] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[07Jan2025 19:55:45.027] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Jan2025 19:55:53.139] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[07Jan2025 19:55:53.140] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[07Jan2025 19:55:54.580] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
-[07Jan2025 19:55:54.581] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[07Jan2025 19:55:54.736] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[07Jan2025 19:55:54.746] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[07Jan2025 19:55:54.752] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[07Jan2025 19:55:54.764] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[07Jan2025 19:55:54.770] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'simplevoicechat_broadcast'
-[07Jan2025 19:55:55.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
-[07Jan2025 19:55:55.700] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@fa95439]
-[07Jan2025 19:55:55.722] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
-[07Jan2025 19:55:55.757] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models IMC processed: Loaded plugins: (0)
+[12Jan2025 02:32:49.542] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[12Jan2025 02:32:49.549] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.5 by Microsoft
+[12Jan2025 02:32:49.711] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/squid-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[12Jan2025 02:32:50.090] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/squid-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[12Jan2025 02:32:50.092] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/squid-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[12Jan2025 02:32:50.097] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/squid-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[12Jan2025 02:32:50.102] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/squid-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[12Jan2025 02:32:50.263] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[12Jan2025 02:32:52.188] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[12Jan2025 02:32:52.222] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[12Jan2025 02:32:52.318] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jan2025 02:33:02.768] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[12Jan2025 02:33:02.772] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[12Jan2025 02:33:04.546] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[12Jan2025 02:33:04.548] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[12Jan2025 02:33:04.744] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[12Jan2025 02:33:04.763] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[12Jan2025 02:33:04.763] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[12Jan2025 02:33:04.780] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[12Jan2025 02:33:04.789] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'simplevoicechat_broadcast'
+[12Jan2025 02:33:05.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[12Jan2025 02:33:05.768] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3f0b42ec]
+[12Jan2025 02:33:05.785] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
+[12Jan2025 02:33:05.843] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models IMC processed: Loaded plugins: (0)
 
-[07Jan2025 19:55:56.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA_OUTDATED Current: 0.5.1a Target: 0.6.19a
-[07Jan2025 19:55:56.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[07Jan2025 19:55:56.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.17 Target: 1.18.2-2.5.27
-[07Jan2025 19:55:56.653] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Jan2025 19:55:56.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[07Jan2025 19:55:57.522] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07Jan2025 19:55:58.936] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/squid-server/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2351!/assets/.mcassetsroot' uses unexpected schema
-[07Jan2025 19:55:58.937] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/squid-server/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2351!/data/.mcassetsroot' uses unexpected schema
-[07Jan2025 19:56:01.579] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[07Jan2025 19:56:01.701] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07Jan2025 19:56:01.703] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07Jan2025 19:56:01.706] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07Jan2025 19:56:01.711] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07Jan2025 19:56:01.712] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[07Jan2025 19:56:01.755] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
-[07Jan2025 19:56:01.756] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
-[07Jan2025 19:56:01.758] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.759] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.771] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
-[07Jan2025 19:56:01.772] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
-[07Jan2025 19:56:01.773] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.775] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
-[07Jan2025 19:56:01.776] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
-[07Jan2025 19:56:01.785] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
-[07Jan2025 19:56:01.787] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
-[07Jan2025 19:56:01.788] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
-[07Jan2025 19:56:01.790] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
-[07Jan2025 19:56:01.792] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, setskin, -f] and [cpm, setskin, target] with inputs: [-f]
-[07Jan2025 19:56:01.793] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, setskin, -t] and [cpm, setskin, target] with inputs: [-t]
-[07Jan2025 19:56:01.806] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, setskin, -r] and [cpm, setskin, target] with inputs: [-r]
-[07Jan2025 19:56:01.807] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, target, max] and [cpm, scaling, entity, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.808] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, target, min] and [cpm, scaling, entity, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.809] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, max] and [cpm, scaling, entity, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.810] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, max] and [cpm, scaling, entity, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.811] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, min] and [cpm, scaling, entity, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.812] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, min] and [cpm, scaling, entity, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.813] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, enabled, enable] and [cpm, scaling, entity, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.814] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, target, max] and [cpm, scaling, eye_height, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.815] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, target, min] and [cpm, scaling, eye_height, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.816] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, max] and [cpm, scaling, eye_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.829] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, max] and [cpm, scaling, eye_height, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.830] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, min] and [cpm, scaling, eye_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.831] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, min] and [cpm, scaling, eye_height, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.832] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, enabled, enable] and [cpm, scaling, eye_height, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.833] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, target, max] and [cpm, scaling, hitbox_width, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.834] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, target, min] and [cpm, scaling, hitbox_width, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.835] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, max] and [cpm, scaling, hitbox_width, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.836] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, max] and [cpm, scaling, hitbox_width, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.837] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, min] and [cpm, scaling, hitbox_width, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.838] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, min] and [cpm, scaling, hitbox_width, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.839] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, enabled, enable] and [cpm, scaling, hitbox_width, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.840] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, target, max] and [cpm, scaling, hitbox_height, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.841] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, target, min] and [cpm, scaling, hitbox_height, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.842] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, max] and [cpm, scaling, hitbox_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.843] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, max] and [cpm, scaling, hitbox_height, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.844] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, min] and [cpm, scaling, hitbox_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.845] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, min] and [cpm, scaling, hitbox_height, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.860] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, enabled, enable] and [cpm, scaling, hitbox_height, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.862] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, target, max] and [cpm, scaling, third_person, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.862] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, target, min] and [cpm, scaling, third_person, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.863] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, max] and [cpm, scaling, third_person, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.864] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, max] and [cpm, scaling, third_person, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.865] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, min] and [cpm, scaling, third_person, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.866] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, min] and [cpm, scaling, third_person, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.867] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, enabled, enable] and [cpm, scaling, third_person, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.868] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, target, max] and [cpm, scaling, view_bobbing, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.869] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, target, min] and [cpm, scaling, view_bobbing, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.870] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, max] and [cpm, scaling, view_bobbing, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.871] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, max] and [cpm, scaling, view_bobbing, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.872] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, min] and [cpm, scaling, view_bobbing, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.874] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, min] and [cpm, scaling, view_bobbing, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.875] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, enabled, enable] and [cpm, scaling, view_bobbing, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.876] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, target, max] and [cpm, scaling, motion, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.877] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, target, min] and [cpm, scaling, motion, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.878] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, max] and [cpm, scaling, motion, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.880] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, max] and [cpm, scaling, motion, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.881] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, min] and [cpm, scaling, motion, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.882] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, min] and [cpm, scaling, motion, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.883] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, enabled, enable] and [cpm, scaling, motion, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.884] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, target, max] and [cpm, scaling, step_height, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.886] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, target, min] and [cpm, scaling, step_height, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.887] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, max] and [cpm, scaling, step_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.888] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, max] and [cpm, scaling, step_height, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.890] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, min] and [cpm, scaling, step_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.891] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, min] and [cpm, scaling, step_height, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.892] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, enabled, enable] and [cpm, scaling, step_height, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.893] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, target, max] and [cpm, scaling, flight_speed, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.893] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, target, min] and [cpm, scaling, flight_speed, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.895] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, max] and [cpm, scaling, flight_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.896] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, max] and [cpm, scaling, flight_speed, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.897] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, min] and [cpm, scaling, flight_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.898] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, min] and [cpm, scaling, flight_speed, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.898] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, enabled, enable] and [cpm, scaling, flight_speed, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.900] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, target, max] and [cpm, scaling, fall_damage, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.901] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, target, min] and [cpm, scaling, fall_damage, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.902] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, max] and [cpm, scaling, fall_damage, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.903] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, max] and [cpm, scaling, fall_damage, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.907] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, min] and [cpm, scaling, fall_damage, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.908] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, min] and [cpm, scaling, fall_damage, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.909] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, enabled, enable] and [cpm, scaling, fall_damage, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.910] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, target, max] and [cpm, scaling, reach, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.911] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, target, min] and [cpm, scaling, reach, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.913] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, max] and [cpm, scaling, reach, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.914] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, max] and [cpm, scaling, reach, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.915] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, min] and [cpm, scaling, reach, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.916] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, min] and [cpm, scaling, reach, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.922] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, enabled, enable] and [cpm, scaling, reach, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.924] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, target, max] and [cpm, scaling, mining_speed, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.925] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, target, min] and [cpm, scaling, mining_speed, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.926] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, max] and [cpm, scaling, mining_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.927] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, max] and [cpm, scaling, mining_speed, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.928] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, min] and [cpm, scaling, mining_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.929] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, min] and [cpm, scaling, mining_speed, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.930] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, enabled, enable] and [cpm, scaling, mining_speed, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.932] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, target, max] and [cpm, scaling, attack_speed, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.933] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, target, min] and [cpm, scaling, attack_speed, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.934] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, max] and [cpm, scaling, attack_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.935] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, max] and [cpm, scaling, attack_speed, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.936] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, min] and [cpm, scaling, attack_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.937] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, min] and [cpm, scaling, attack_speed, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.938] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, enabled, enable] and [cpm, scaling, attack_speed, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.940] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, target, max] and [cpm, scaling, attack_knockback, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.941] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, target, min] and [cpm, scaling, attack_knockback, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.942] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, max] and [cpm, scaling, attack_knockback, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.943] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, max] and [cpm, scaling, attack_knockback, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.945] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, min] and [cpm, scaling, attack_knockback, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.946] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, min] and [cpm, scaling, attack_knockback, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.947] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, enabled, enable] and [cpm, scaling, attack_knockback, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.949] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, target, max] and [cpm, scaling, attack_dmg, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.950] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, target, min] and [cpm, scaling, attack_dmg, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.951] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, max] and [cpm, scaling, attack_dmg, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.952] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, max] and [cpm, scaling, attack_dmg, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.953] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, min] and [cpm, scaling, attack_dmg, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.955] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, min] and [cpm, scaling, attack_dmg, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.956] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, enabled, enable] and [cpm, scaling, attack_dmg, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.957] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, target, max] and [cpm, scaling, defense, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.958] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, target, min] and [cpm, scaling, defense, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.960] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, max] and [cpm, scaling, defense, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.961] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, max] and [cpm, scaling, defense, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.962] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, min] and [cpm, scaling, defense, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.963] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, min] and [cpm, scaling, defense, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.965] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, enabled, enable] and [cpm, scaling, defense, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.966] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, target, max] and [cpm, scaling, health, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.967] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, target, min] and [cpm, scaling, health, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.968] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, max] and [cpm, scaling, health, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.969] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, max] and [cpm, scaling, health, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.971] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, min] and [cpm, scaling, health, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.972] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, min] and [cpm, scaling, health, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.973] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, enabled, enable] and [cpm, scaling, health, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.975] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, target, max] and [cpm, scaling, mob_visibility, limit, target, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.976] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, target, min] and [cpm, scaling, mob_visibility, limit, target, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.978] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, max] and [cpm, scaling, mob_visibility, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.979] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, max] and [cpm, scaling, mob_visibility, limit, min] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.980] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, min] and [cpm, scaling, mob_visibility, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[07Jan2025 19:56:01.981] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, min] and [cpm, scaling, mob_visibility, limit, max] with inputs: [1.2, .5]
-[07Jan2025 19:56:01.983] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, enabled, enable] and [cpm, scaling, mob_visibility, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.984] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, all, enabled, enable] and [cpm, scaling, all, enabled, target] with inputs: [true, false]
-[07Jan2025 19:56:01.985] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[07Jan2025 19:56:03.569] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[07Jan2025 19:56:04.795] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1141 advancements
-[07Jan2025 19:56:05.761] [main/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: Failed to parse resource pack prompt 'Activa el resource pack, es ÂOBLIGATORIO'
+[12Jan2025 02:33:06.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA_OUTDATED Current: 0.5.1a Target: 0.6.19b
+[12Jan2025 02:33:06.222] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[12Jan2025 02:33:06.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.17 Target: 1.18.2-2.5.27
+[12Jan2025 02:33:06.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Jan2025 02:33:06.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[12Jan2025 02:33:09.250] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12Jan2025 02:33:11.359] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/squid-server/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2351!/assets/.mcassetsroot' uses unexpected schema
+[12Jan2025 02:33:11.362] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/squid-server/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2351!/data/.mcassetsroot' uses unexpected schema
+[12Jan2025 02:33:15.653] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[12Jan2025 02:33:15.987] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Jan2025 02:33:15.991] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Jan2025 02:33:15.999] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Jan2025 02:33:16.008] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Jan2025 02:33:16.010] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12Jan2025 02:33:16.024] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+[12Jan2025 02:33:16.036] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+[12Jan2025 02:33:16.038] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.043] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.053] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+[12Jan2025 02:33:16.067] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+[12Jan2025 02:33:16.071] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.073] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+[12Jan2025 02:33:16.075] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+[12Jan2025 02:33:16.078] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+[12Jan2025 02:33:16.080] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
+[12Jan2025 02:33:16.082] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
+[12Jan2025 02:33:16.085] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+[12Jan2025 02:33:16.145] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, setskin, -f] and [cpm, setskin, target] with inputs: [-f]
+[12Jan2025 02:33:16.155] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, setskin, -t] and [cpm, setskin, target] with inputs: [-t]
+[12Jan2025 02:33:16.157] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, setskin, -r] and [cpm, setskin, target] with inputs: [-r]
+[12Jan2025 02:33:16.159] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, target, max] and [cpm, scaling, entity, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.161] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, target, min] and [cpm, scaling, entity, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.164] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, max] and [cpm, scaling, entity, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.166] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, max] and [cpm, scaling, entity, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.170] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, min] and [cpm, scaling, entity, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.177] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, limit, min] and [cpm, scaling, entity, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.180] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, entity, enabled, enable] and [cpm, scaling, entity, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.183] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, target, max] and [cpm, scaling, eye_height, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.195] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, target, min] and [cpm, scaling, eye_height, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.201] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, max] and [cpm, scaling, eye_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.203] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, max] and [cpm, scaling, eye_height, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.205] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, min] and [cpm, scaling, eye_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.206] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, limit, min] and [cpm, scaling, eye_height, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.208] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, eye_height, enabled, enable] and [cpm, scaling, eye_height, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.210] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, target, max] and [cpm, scaling, hitbox_width, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.211] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, target, min] and [cpm, scaling, hitbox_width, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.213] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, max] and [cpm, scaling, hitbox_width, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.214] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, max] and [cpm, scaling, hitbox_width, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.223] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, min] and [cpm, scaling, hitbox_width, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.224] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, limit, min] and [cpm, scaling, hitbox_width, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.226] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_width, enabled, enable] and [cpm, scaling, hitbox_width, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.232] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, target, max] and [cpm, scaling, hitbox_height, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.235] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, target, min] and [cpm, scaling, hitbox_height, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.237] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, max] and [cpm, scaling, hitbox_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.240] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, max] and [cpm, scaling, hitbox_height, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.242] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, min] and [cpm, scaling, hitbox_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.245] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, limit, min] and [cpm, scaling, hitbox_height, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.246] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, hitbox_height, enabled, enable] and [cpm, scaling, hitbox_height, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.248] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, target, max] and [cpm, scaling, third_person, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.249] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, target, min] and [cpm, scaling, third_person, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.251] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, max] and [cpm, scaling, third_person, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.252] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, max] and [cpm, scaling, third_person, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.254] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, min] and [cpm, scaling, third_person, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.255] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, limit, min] and [cpm, scaling, third_person, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.257] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, third_person, enabled, enable] and [cpm, scaling, third_person, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.258] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, target, max] and [cpm, scaling, view_bobbing, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.258] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, target, min] and [cpm, scaling, view_bobbing, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.259] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, max] and [cpm, scaling, view_bobbing, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.260] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, max] and [cpm, scaling, view_bobbing, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.261] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, min] and [cpm, scaling, view_bobbing, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.262] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, limit, min] and [cpm, scaling, view_bobbing, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.262] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, view_bobbing, enabled, enable] and [cpm, scaling, view_bobbing, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.263] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, target, max] and [cpm, scaling, motion, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.264] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, target, min] and [cpm, scaling, motion, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.265] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, max] and [cpm, scaling, motion, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.266] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, max] and [cpm, scaling, motion, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.266] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, min] and [cpm, scaling, motion, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.267] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, limit, min] and [cpm, scaling, motion, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.268] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, motion, enabled, enable] and [cpm, scaling, motion, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.270] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, target, max] and [cpm, scaling, step_height, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.275] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, target, min] and [cpm, scaling, step_height, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.276] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, max] and [cpm, scaling, step_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.277] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, max] and [cpm, scaling, step_height, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.277] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, min] and [cpm, scaling, step_height, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.279] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, limit, min] and [cpm, scaling, step_height, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.280] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, step_height, enabled, enable] and [cpm, scaling, step_height, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.282] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, target, max] and [cpm, scaling, flight_speed, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.288] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, target, min] and [cpm, scaling, flight_speed, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.289] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, max] and [cpm, scaling, flight_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.289] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, max] and [cpm, scaling, flight_speed, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.290] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, min] and [cpm, scaling, flight_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.291] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, limit, min] and [cpm, scaling, flight_speed, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.292] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, flight_speed, enabled, enable] and [cpm, scaling, flight_speed, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.302] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, target, max] and [cpm, scaling, fall_damage, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.303] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, target, min] and [cpm, scaling, fall_damage, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.304] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, max] and [cpm, scaling, fall_damage, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.305] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, max] and [cpm, scaling, fall_damage, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.305] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, min] and [cpm, scaling, fall_damage, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.306] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, limit, min] and [cpm, scaling, fall_damage, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.307] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, fall_damage, enabled, enable] and [cpm, scaling, fall_damage, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.308] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, target, max] and [cpm, scaling, reach, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.308] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, target, min] and [cpm, scaling, reach, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.309] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, max] and [cpm, scaling, reach, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.310] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, max] and [cpm, scaling, reach, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.310] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, min] and [cpm, scaling, reach, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.311] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, limit, min] and [cpm, scaling, reach, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.318] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, reach, enabled, enable] and [cpm, scaling, reach, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.319] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, target, max] and [cpm, scaling, mining_speed, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.319] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, target, min] and [cpm, scaling, mining_speed, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.320] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, max] and [cpm, scaling, mining_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.321] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, max] and [cpm, scaling, mining_speed, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.321] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, min] and [cpm, scaling, mining_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.322] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, limit, min] and [cpm, scaling, mining_speed, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.323] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mining_speed, enabled, enable] and [cpm, scaling, mining_speed, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.325] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, target, max] and [cpm, scaling, attack_speed, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.326] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, target, min] and [cpm, scaling, attack_speed, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.333] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, max] and [cpm, scaling, attack_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.333] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, max] and [cpm, scaling, attack_speed, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.334] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, min] and [cpm, scaling, attack_speed, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.335] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, limit, min] and [cpm, scaling, attack_speed, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.336] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_speed, enabled, enable] and [cpm, scaling, attack_speed, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.336] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, target, max] and [cpm, scaling, attack_knockback, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.337] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, target, min] and [cpm, scaling, attack_knockback, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.338] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, max] and [cpm, scaling, attack_knockback, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.342] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, max] and [cpm, scaling, attack_knockback, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.343] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, min] and [cpm, scaling, attack_knockback, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.343] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, limit, min] and [cpm, scaling, attack_knockback, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.344] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_knockback, enabled, enable] and [cpm, scaling, attack_knockback, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.345] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, target, max] and [cpm, scaling, attack_dmg, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.355] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, target, min] and [cpm, scaling, attack_dmg, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.356] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, max] and [cpm, scaling, attack_dmg, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.357] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, max] and [cpm, scaling, attack_dmg, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.358] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, min] and [cpm, scaling, attack_dmg, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.358] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, limit, min] and [cpm, scaling, attack_dmg, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.359] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, attack_dmg, enabled, enable] and [cpm, scaling, attack_dmg, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.360] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, target, max] and [cpm, scaling, defense, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.361] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, target, min] and [cpm, scaling, defense, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.362] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, max] and [cpm, scaling, defense, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.363] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, max] and [cpm, scaling, defense, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.363] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, min] and [cpm, scaling, defense, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.370] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, limit, min] and [cpm, scaling, defense, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.371] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, defense, enabled, enable] and [cpm, scaling, defense, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.372] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, target, max] and [cpm, scaling, health, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.373] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, target, min] and [cpm, scaling, health, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.373] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, max] and [cpm, scaling, health, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.374] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, max] and [cpm, scaling, health, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.375] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, min] and [cpm, scaling, health, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.375] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, limit, min] and [cpm, scaling, health, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.376] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, health, enabled, enable] and [cpm, scaling, health, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.377] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, target, max] and [cpm, scaling, mob_visibility, limit, target, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.378] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, target, min] and [cpm, scaling, mob_visibility, limit, target, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.386] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, max] and [cpm, scaling, mob_visibility, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.387] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, max] and [cpm, scaling, mob_visibility, limit, min] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.388] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, min] and [cpm, scaling, mob_visibility, limit, target] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[12Jan2025 02:33:16.388] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, limit, min] and [cpm, scaling, mob_visibility, limit, max] with inputs: [1.2, .5]
+[12Jan2025 02:33:16.389] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, mob_visibility, enabled, enable] and [cpm, scaling, mob_visibility, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.390] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [cpm, scaling, all, enabled, enable] and [cpm, scaling, all, enabled, target] with inputs: [true, false]
+[12Jan2025 02:33:16.391] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12Jan2025 02:33:19.193] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[12Jan2025 02:33:20.516] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1141 advancements
+[12Jan2025 02:33:22.076] [main/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: Failed to parse resource pack prompt 'Activa el resource pack, es ÂOBLIGATORIO'
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
 	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[gson-2.8.9.jar%2321!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:65) ~[gson-2.8.9.jar%2321!/:?]
@@ -213,237 +213,47 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:424) ~[gson-2.8.9.jar%2321!/:?]
 	at com.google.gson.internal.Streams.parse(Streams.java:46) ~[gson-2.8.9.jar%2321!/:?]
 	... 20 more
-[07Jan2025 19:56:05.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[07Jan2025 19:56:05.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[07Jan2025 19:56:05.796] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[07Jan2025 19:56:05.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: ADVENTURE
-[07Jan2025 19:56:05.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07Jan2025 19:56:06.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[07Jan2025 19:56:06.170] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[07Jan2025 19:56:06.297] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07Jan2025 19:56:06.298] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[07Jan2025 19:56:06.298] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07Jan2025 19:56:06.299] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[07Jan2025 19:56:06.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[07Jan2025 19:56:06.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[07Jan2025 19:56:09.245] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:09.260] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:09.274] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:09.285] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:09.303] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:09.319] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:09.579] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:10.077] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:10.577] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:11.079] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:11.580] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:12.080] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 19:56:12.588] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[07Jan2025 19:56:13.076] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[07Jan2025 19:56:13.577] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[07Jan2025 19:56:14.085] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[07Jan2025 19:56:14.576] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[07Jan2025 19:56:15.080] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[07Jan2025 19:56:15.577] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
-[07Jan2025 19:56:16.077] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 81%
-[07Jan2025 19:56:17.120] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10545 ms
-[07Jan2025 19:56:17.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.809s)! For help, type "help"
-[07Jan2025 19:56:17.138] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[07Jan2025 19:56:19.183] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[07Jan2025 19:56:19.213] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[07Jan2025 20:01:40.647] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c4fc994
-[07Jan2025 20:01:40.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlecrafftJW[/127.52.147.79:55907] logged in with entity id 67 at (535.6415103897631, 102.38228867020689, -209.6669882508364)
-[07Jan2025 20:01:40.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW joined the game
-[07Jan2025 20:01:41.933] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlecrafftJW (18)
-[07Jan2025 20:01:41.935] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlecrafftJW
-[07Jan2025 20:07:55.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] Opening server review!
-[07Jan2025 20:07:59.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 1 of a max of 100 players online: AlecrafftJW
-[07Jan2025 20:11:22.857] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73210b87
-[07Jan2025 20:11:22.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: meliodas646[/127.251.123.32:45355] logged in with entity id 101 at (556.6999999880791, 75.0, -55.32075695247724)
-[07Jan2025 20:11:22.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: meliodas646 joined the game
-[07Jan2025 20:11:23.993] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of meliodas646 (18)
-[07Jan2025 20:11:23.994] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to meliodas646
-[07Jan2025 20:11:49.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> brouuu termina de construir en lo que yo termino mi tarea JAJAJJA
-[07Jan2025 20:11:59.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ok XD
-[07Jan2025 20:12:52.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 2 of a max of 100 players online: AlecrafftJW, meliodas646
-[07Jan2025 20:14:11.704] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3089fc5a
-[07Jan2025 20:14:11.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrMateoGame26YT[/127.134.206.85:55947] logged in with entity id 127 at (414.1759579909222, 72.80261458987472, 39.0246905004072)
-[07Jan2025 20:14:11.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SrMateoGame26YT joined the game
-[07Jan2025 20:14:13.636] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SrMateoGame26YT (18)
-[07Jan2025 20:14:13.637] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SrMateoGame26YT
-[07Jan2025 20:14:22.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> hola
-[07Jan2025 20:14:26.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> olas
-[07Jan2025 20:14:37.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> bro mateo
-[07Jan2025 20:14:40.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> si
-[07Jan2025 20:14:44.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SrMateoGame26YT: Teleported SrMateoGame26YT to meliodas646]
-[07Jan2025 20:14:48.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> le podes ayudar a construir u
-[07Jan2025 20:14:51.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> si
-[07Jan2025 20:14:58.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> yo voy a terminar mi tarea
-[07Jan2025 20:14:59.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> no puedo estar mucho tiempo, les ayudo
-[07Jan2025 20:15:03.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> ok
-[07Jan2025 20:15:03.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> vavvava
-[07Jan2025 20:15:10.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> q juego es? meliodas646
-[07Jan2025 20:15:17.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> escondidas
-[07Jan2025 20:15:20.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> apa
-[07Jan2025 20:15:32.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> yo siento que lo agrandamos un poco mas no??
-[07Jan2025 20:15:49.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> mateo podes hacer un arbol grandote aca
-[07Jan2025 20:15:57.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> donde?
-[07Jan2025 20:15:57.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> donde uno se pueda esconder
-[07Jan2025 20:16:07.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported SrMateoGame26YT to AlecrafftJW]
-[07Jan2025 20:16:14.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> ok
-[07Jan2025 20:16:18.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> un segundo
-[07Jan2025 20:18:06.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Added SrMateoGame26YT to team [Guardss]]
-[07Jan2025 20:18:46.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Replaced a slot on 2 entities with [Block of Emerald]]
-[07Jan2025 20:19:11.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> waos y si mejor pasas el nuevo txt XD
-[07Jan2025 20:19:19.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> son 400 mb
-[07Jan2025 20:19:24.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
-[07Jan2025 20:19:48.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> y el segundo pisito brou
-[07Jan2025 20:19:58.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> no me gusto XD
-[07Jan2025 20:20:09.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> XD
-[07Jan2025 20:20:13.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ale
-[07Jan2025 20:20:15.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> eu
-[07Jan2025 20:20:30.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> por q no usas el plasmo voice yo lo veo mas productivo
-[07Jan2025 20:20:32.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> alaaa la merri christian
-[07Jan2025 20:20:41.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> lo metemos cuando termine mi tarea XD
-[07Jan2025 20:20:59.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SrMateoGame26YT: Set the time to 1000]
-[07Jan2025 20:27:06.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> hago otro?
-[07Jan2025 20:29:08.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> sisiis
-[07Jan2025 20:29:12.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> ok
-[07Jan2025 20:30:55.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> falta lo mas importante
-[07Jan2025 20:31:23.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> q tal si les da ganas de mear
-[07Jan2025 20:31:30.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> t si
-[07Jan2025 20:31:33.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> y si
-[07Jan2025 20:32:44.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> tu podes
-[07Jan2025 20:32:47.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ya me canse
-[07Jan2025 20:32:47.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> F
-[07Jan2025 20:32:49.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> JAJJAJAA
-[07Jan2025 20:34:54.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ten rb
-[07Jan2025 20:35:02.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> tu pago
-[07Jan2025 20:35:06.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> yey
-[07Jan2025 20:35:10.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ven mira
-[07Jan2025 20:35:10.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SrMateoGame26YT: Teleported SrMateoGame26YT to AlecrafftJW]
-[07Jan2025 20:35:13.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> tmr
-[07Jan2025 20:35:23.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> tu pago
-[07Jan2025 20:35:40.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> alrmd
-[07Jan2025 20:37:58.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ahorita se une trye
-[07Jan2025 20:38:08.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> borro el .minecraft
-[07Jan2025 20:38:09.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [meliodas646: Teleported AlecrafftJW to meliodas646]
-[07Jan2025 20:38:11.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
-[07Jan2025 20:38:21.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> opa ta piola
-[07Jan2025 20:38:37.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> awebo
-[07Jan2025 20:38:52.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SrMateoGame26YT: Teleported SrMateoGame26YT to AlecrafftJW]
-[07Jan2025 20:38:52.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set meliodas646's game mode to Survival Mode]
-[07Jan2025 20:39:40.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> abuelo :(
-[07Jan2025 20:39:46.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> queda chevere
-[07Jan2025 20:39:52.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-[07Jan2025 20:40:09.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> guardia
-[07Jan2025 20:40:11.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> infiltrado
-[07Jan2025 20:40:15.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> matalo
-[07Jan2025 20:40:21.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> q paso?
-[07Jan2025 20:40:29.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Gamerule keepInventory is now set to: true]
-[07Jan2025 20:40:35.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]
-[07Jan2025 20:40:41.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> maytalo
-[07Jan2025 20:40:48.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> eeeeeeeeeee
-[07Jan2025 20:40:53.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> q ta sucediendo ahi+
-[07Jan2025 20:40:57.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> shhh
-[07Jan2025 20:41:05.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set [death] for meliodas646 to 0]
-[07Jan2025 20:41:08.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> xd
-[07Jan2025 20:41:12.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
-[07Jan2025 20:41:13.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]
-[07Jan2025 20:41:21.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> Ibai reference
-[07Jan2025 20:41:25.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set [death] for meliodas646 to 0]
-[07Jan2025 20:41:28.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SrMateoGame26YT> ya vengo
-[07Jan2025 20:41:28.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> XD
-[07Jan2025 20:41:30.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]
-[07Jan2025 20:41:30.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrMateoGame26YT lost connection: Disconnected
-[07Jan2025 20:41:30.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SrMateoGame26YT left the game
-[07Jan2025 20:41:30.723] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SrMateoGame26YT
-[07Jan2025 20:41:48.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set meliodas646's game mode to Creative Mode]
-[07Jan2025 20:42:03.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> segui construyendo o no hay paga
-[07Jan2025 20:42:11.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> tmr
-[07Jan2025 20:42:26.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [meliodas646: Removed every effect from 2 targets]
-[07Jan2025 20:42:51.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [meliodas646: Set own game mode to Survival Mode]
-[07Jan2025 20:42:52.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [meliodas646: Set own game mode to Creative Mode]
-[07Jan2025 20:42:59.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Night Vision to 2 targets]
-[07Jan2025 20:43:09.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> voy al bathroom ya vuelvo
-[07Jan2025 20:43:11.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Removed every effect from 2 targets]
-[07Jan2025 20:43:16.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ok
-[07Jan2025 20:43:20.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:custom.luces to 2 players]
-[07Jan2025 20:43:47.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Night Vision to 2 targets]
-[07Jan2025 20:43:47.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:custom.luces to 2 players]
-[07Jan2025 20:43:54.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Night Vision to 2 targets]
-[07Jan2025 20:43:54.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:custom.luces to 2 players]
-[07Jan2025 20:44:34.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlecrafftJW lost connection: Disconnected
-[07Jan2025 20:44:34.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW left the game
-[07Jan2025 20:44:34.102] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlecrafftJW
-[07Jan2025 20:44:42.769] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61956017
-[07Jan2025 20:44:42.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlecrafftJW[/127.52.147.79:41003] logged in with entity id 925 at (482.3879076375705, 93.72882135960599, -111.63471389188084)
-[07Jan2025 20:44:42.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW joined the game
-[07Jan2025 20:44:42.992] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlecrafftJW (18)
-[07Jan2025 20:44:42.992] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlecrafftJW
-[07Jan2025 20:44:43.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> server pa mi solo
-[07Jan2025 20:44:47.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> tmr
-[07Jan2025 20:44:50.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> no
-[07Jan2025 20:44:54.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
-[07Jan2025 20:45:27.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set own game mode to Spectator Mode]
-[07Jan2025 20:45:41.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set own game mode to Creative Mode]
-[07Jan2025 20:46:09.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]
-[07Jan2025 20:46:19.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> cuentamee
-[07Jan2025 20:46:25.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> cuantas chquetas te haces al dia
-[07Jan2025 20:46:27.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> aa noo
-[07Jan2025 20:46:29.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> asi no eraaa
-[07Jan2025 20:46:30.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> 5
-[07Jan2025 20:46:34.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> digo
-[07Jan2025 20:46:36.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ._.
-[07Jan2025 20:46:43.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set meliodas646's game mode to Survival Mode]
-[07Jan2025 20:47:35.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]
-[07Jan2025 20:47:38.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [meliodas646: Set own game mode to Creative Mode]
-[07Jan2025 20:47:40.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [meliodas646: Set own game mode to Survival Mode]
-[07Jan2025 20:47:43.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ezzzzzzzzzzzzzzzzz
-[07Jan2025 20:47:44.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> capo
-[07Jan2025 20:47:52.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Killed meliodas646]
-[07Jan2025 20:47:52.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
-[07Jan2025 20:47:53.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Set [death] for meliodas646 to 0]
-[07Jan2025 20:47:56.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
-[07Jan2025 20:47:57.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> decias
-[07Jan2025 20:48:02.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Teleported meliodas646 to AlecrafftJW]
-[07Jan2025 20:48:05.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> dije muy dificil
-[07Jan2025 20:48:14.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set meliodas646's game mode to Creative Mode]
-[07Jan2025 20:48:39.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:pinksoldiers to 2 players]
-[07Jan2025 20:48:56.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> no escucho nada XD
-[07Jan2025 20:49:03.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ya no sirve eso
-[07Jan2025 20:49:12.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Applied effect Night Vision to 2 targets]
-[07Jan2025 20:49:12.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:custom.luces to 2 players]
-[07Jan2025 20:49:39.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [@: Played sound minecraft:pinksoldiers to 2 players]
-[07Jan2025 20:49:42.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> aydame a hacer mi habitacion
-[07Jan2025 20:49:47.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ok XD
-[07Jan2025 20:51:13.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> me caeee
-[07Jan2025 20:51:27.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
-[07Jan2025 20:52:35.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> XD
-[07Jan2025 20:52:54.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> voy a ser gero arias
-[07Jan2025 20:53:04.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> aaa
-[07Jan2025 20:53:10.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> XD
-[07Jan2025 20:53:17.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> :(
-[07Jan2025 20:53:17.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ou
-[07Jan2025 20:53:25.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> son 3000 dolares bro
-[07Jan2025 20:53:33.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> tmr
-[07Jan2025 20:53:38.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> bye
-[07Jan2025 20:53:43.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> carreritaas
-[07Jan2025 20:53:58.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ven
-[07Jan2025 20:54:03.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> de aqui hasta akka
-[07Jan2025 20:54:05.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> 1
-[07Jan2025 20:54:06.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> 2
-[07Jan2025 20:54:07.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> 3
-[07Jan2025 20:54:34.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> ganeee
-[07Jan2025 20:54:40.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> wuuuuuuuuuuuuuuuuu
-[07Jan2025 20:55:03.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> escape de latam
-[07Jan2025 20:55:06.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> X
-[07Jan2025 20:55:15.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> VOY A COMER
-[07Jan2025 20:55:20.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AlecrafftJW> termina de construir
-[07Jan2025 20:55:24.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <meliodas646> ok
-[07Jan2025 20:56:42.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: meliodas646 lost connection: Disconnected
-[07Jan2025 20:56:42.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: meliodas646 left the game
-[07Jan2025 20:56:42.354] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client meliodas646
-[07Jan2025 20:57:06.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlecrafftJW lost connection: Disconnected
-[07Jan2025 20:57:06.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW left the game
-[07Jan2025 20:57:06.252] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlecrafftJW
+[12Jan2025 02:33:22.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[12Jan2025 02:33:22.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Jan2025 02:33:22.097] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[12Jan2025 02:33:22.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: ADVENTURE
+[12Jan2025 02:33:22.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Jan2025 02:33:22.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Jan2025 02:33:22.638] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[12Jan2025 02:33:22.876] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12Jan2025 02:33:22.876] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[12Jan2025 02:33:22.877] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12Jan2025 02:33:22.877] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[12Jan2025 02:33:22.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[12Jan2025 02:33:23.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[12Jan2025 02:33:26.485] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:26.515] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:26.533] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:26.557] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:26.575] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:26.596] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:26.609] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:26.886] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:27.385] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:27.907] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:28.398] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:28.890] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:29.388] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:29.888] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:30.385] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[12Jan2025 02:33:30.884] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[12Jan2025 02:33:31.385] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[12Jan2025 02:33:31.886] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[12Jan2025 02:33:32.385] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[12Jan2025 02:33:32.894] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[12Jan2025 02:33:33.385] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[12Jan2025 02:33:33.897] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[12Jan2025 02:33:34.457] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[12Jan2025 02:33:34.885] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 52%
+[12Jan2025 02:33:35.387] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
+[12Jan2025 02:33:35.884] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[12Jan2025 02:33:37.114] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13731 ms
+[12Jan2025 02:33:37.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.216s)! For help, type "help"
+[12Jan2025 02:33:37.174] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Jan2025 02:33:40.093] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[12Jan2025 02:33:40.155] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454

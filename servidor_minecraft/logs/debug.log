@@ -3455,3 +3455,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [15Jan2025 22:40:35.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jan2025 22:40:35.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jan2025 22:42:09.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] server
+[15Jan2025 22:45:35.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 22:45:35.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 22:50:35.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 22:50:35.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -278,3 +278,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [15Jan2025 21:37:03.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlecrafftJW lost connection: Disconnected
 [15Jan2025 21:37:03.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW left the game
 [15Jan2025 21:37:03.649] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlecrafftJW
+[15Jan2025 21:52:20.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] a

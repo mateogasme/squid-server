@@ -263,3 +263,14 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [15Jan2025 20:59:32.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW joined the game
 [15Jan2025 20:59:32.538] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlecrafftJW (18)
 [15Jan2025 20:59:32.549] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlecrafftJW
+[15Jan2025 21:17:39.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlecrafftJW lost connection: Disconnected
+[15Jan2025 21:17:39.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW left the game
+[15Jan2025 21:17:39.651] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlecrafftJW
+[15Jan2025 21:17:59.004] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1777aa0a
+[15Jan2025 21:17:59.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlecrafftJW[/127.56.140.180:60317] logged in with entity id 100 at (315.56472055900934, 68.41419334927461, -29.25485484419965)
+[15Jan2025 21:17:59.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AlecrafftJW joined the game
+[15Jan2025 21:18:04.554] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlecrafftJW (18)
+[15Jan2025 21:18:04.555] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlecrafftJW
+[15Jan2025 21:20:56.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set own game mode to Spectator Mode]
+[15Jan2025 21:20:58.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set own game mode to Creative Mode]
+[15Jan2025 21:23:32.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AlecrafftJW: Set own game mode to Spectator Mode]
